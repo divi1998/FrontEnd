@@ -1,0 +1,18 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "AAA",
+      "earning": 2100,
+      "releaseDate": "2021-09-12",
+      "userName": "aaa"
+    },
+    {
+      "id": 2,
+      "name": "BBB",
+      "earning": 4500,
+      "releaseDate": "2020-08-12",
+      "userName": "bbb"
+    }
+  ]
+}
